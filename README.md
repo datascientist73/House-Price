@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Проект по определению цены недвижимости, исходя из заданных признаков, как числовых так и категориальных.
+Была проведена предобработка данных (заполнение пропусков, перевод категориальных данных в числовые, нормализация), затем - регрессионный анализ, с использованием классического ML.
+Обученная с использованием Random Forest Regressor модель показала точность определения цены на уровне 83% 
